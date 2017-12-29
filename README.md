@@ -1,1 +1,1 @@
-# HBaseWithHive
+# HBase With Hive
