@@ -2,7 +2,7 @@
 
 ## Learn How Hive Work With HBase in Simple Example
 
-We will import DATA from 'Hiking' ['Hiking' TABLE created on HBase](https://github.com/SakhriHoussem/HBaseInPractice).
+We will import DATA from ['Hiking' TABLE created on HBase](https://github.com/SakhriHoussem/HBaseInPractice).
 
 ## Create HBase TABLE 'hiking'  :
 
